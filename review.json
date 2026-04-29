@@ -1,0 +1,6 @@
+{
+  "reviews": [
+    {"word": "vernal", "correct": true},
+    {"word": "nemesis", "correct": false}
+  ]
+}

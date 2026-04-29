@@ -1,0 +1,25 @@
+{
+  "words": [
+    {
+      "word": "vernal2",
+      "meaning": "春天的；春季的（正式书面语）",
+      "correctStreak": 2,
+      "nextReview": "2026-05-11",
+      "interval": 24,
+      "source": {
+        "date": "2026-04-24",
+        "context": "test"
+      },
+      "reviewHistory": [
+        {
+          "date": "2026-04-29",
+          "correct": true
+        },
+        {
+          "date": "2026-04-29",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
